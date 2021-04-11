@@ -16,4 +16,4 @@ When the command `!nuke` is used the bot disconnects all the user connected in a
 
 ## Built With
 
-- [Discord.js](https://discord.js.org/) - Aa powerful node.js module that allows you to interact with the Discord API very easily.
+- [Discord.js](https://discord.js.org/) - A powerful node.js module that allows you to interact with the Discord API very easily.
